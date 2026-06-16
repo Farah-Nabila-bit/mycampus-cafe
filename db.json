@@ -1,0 +1,26 @@
+{
+  "orders": [
+    {
+      "customerName": "Farah",
+      "foodItem": "Nasi Lemak",
+      "quantity": 1,
+      "totalPrice": 5,
+      "id": "dcOvzeApxX0"
+    },
+    {
+      "customerName": "Faizah",
+      "foodItem": "Chicken Rice",
+      "quantity": 2,
+      "totalPrice": 14,
+      "id": "waytPVc2f8Q"
+    },
+    {
+      "customerName": "Farida",
+      "foodItem": "Sandwich",
+      "quantity": 1,
+      "totalPrice": 4,
+      "id": "k7GEMSrUSY8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
